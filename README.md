@@ -81,6 +81,7 @@ These functions cover various aspects of a Taxi Booking Plugin, from form handli
 - **Email Notifications:** Customize the email template for booking confirmations in the plugin settings.
 
 ## Directory structure
+```
 Taxi-Booking-Plugin/
 ├── book-a-taxi.php
 ├── book-a-taxi-functions.php
@@ -109,7 +110,7 @@ Taxi-Booking-Plugin/
 ├── README.md
 ├── LICENSE
 └── index.php
-
+```
 ## Contributing
 
 Contributions are welcome! If you have any feature requests, suggestions, or bug reports, please [open an issue](https://github.com/your-repo/issues).
