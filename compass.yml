@@ -1,0 +1,18 @@
+name: WpTaxiBooking
+id: ari:cloud:compass:174bfcc0-4d3f-413f-8b5c-c601be9a81f2:component/da947674-957d-47a1-b0ab-b2de4ac64816/d0ea3fa8-297c-41cf-8645-ea5a7a98729a
+description: This plugin allows users to book taxis through a WordPress website using the Mollie API for payment processing.
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/EddyGoesHard/WpTaxiBooking
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
